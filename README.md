@@ -47,7 +47,7 @@ Neovim's configurations are located under the following paths, depending on your
 | MacOS | `$XDG_CONFIG_HOME/nvim`, `~/.config/nvim` |
 | Windows | `%userprofile%\AppData\Local\nvim\` |
 
-Clone neovim.nvim:
+Clone devops.nvim:
 
 ```sh
 # on Linux and Mac

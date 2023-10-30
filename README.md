@@ -79,7 +79,7 @@ nvim --headless "+Lazy! sync" +qa
 
 To uninstall `devops.nvim`, you need to remove the following files and directories:
 
-- config: `~/.config.nvim`
+- config: `~/.config/nvim`
 - data: `~/.local/share/nvim`
 - state: `~/.local/state/nvim`
 - cache: `~/.cache/nvim`

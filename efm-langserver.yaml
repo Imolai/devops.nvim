@@ -1,0 +1,18 @@
+version: 0
+log-file: "$HOME/.local/state/nvim/efm.log"
+log-level: 1
+commands: []
+languages:
+  sh:
+    lint-command: 'shellcheck -f gcc -x'
+    lint-formats:
+      - "%f:%l:%c: %trror: %m"
+      - "%f:%l:%c: %tarning: %m"
+      - "%f:%l:%c: %tote: %m"
+    lint-ignore-exit-code: true
+    format-command: 'shfmt -ci -s -bn'
+root-markers:
+  - ".git/"
+lint-debounce: 0
+format-debounce: 0
+provide-definition: true

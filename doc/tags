@@ -1,3 +1,3 @@
-kickstart-is	kickstart.txt	/*kickstart-is*
-kickstart-is-not	kickstart.txt	/*kickstart-is-not*
-kickstart.nvim	kickstart.txt	/*kickstart.nvim*
+devops-is	devops.txt	/*devops-is*
+devops-is-not	devops.txt	/*devops-is-not*
+devops.nvim	devops.txt	/*devops.nvim*

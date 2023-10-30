@@ -4,7 +4,7 @@ The purpose of this Neovim configuration is to make an IDE for DevOps engineers.
 
 ### Introduction
 
-Requirements for Neovim DevOps IDE
+#### Requirements for Neovim DevOps IDE
 
 | Subject | Description |
 | :------ | :---------- |

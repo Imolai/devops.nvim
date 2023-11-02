@@ -1,5 +1,11 @@
 # Neovim DevOps IDE configuration
 
+STOPPED.
+
+I changed to [AstroNvim](https://astronvim.com/).
+
+"Configure less, code more".
+
 The purpose of this Neovim configuration is to make an IDE for DevOps engineers. It is forked from [kickstart.nvim](nvim-lua/kickstart.nvim).
 
 ### Introduction
@@ -31,7 +37,7 @@ mv ~/.cache/nvim{,.bak}
 or simply remove them, if you already have a backup:
 
 ```bash
-rm -fr .config/nvim; rm -fr .local/share/nvim; rm -fr .local/state/nvim; rm -fr .cache/nvim
+rm -fr ~/.config/nvim; rm -fr ~/.local/share/nvim; rm -fr ~/.local/state/nvim; rm -fr ~/.cache/nvim
 ```
 
 Requirements:

@@ -2,9 +2,11 @@
 
 STOPPED.
 
-I changed to [AstroNvim](https://astronvim.com/).
+I changed to [LazyVim](https://www.lazyvim.org).
 
-"Configure less, code more".
+"Effortless Efficiency, Unleash IDE Power with Ease".
+
+---
 
 The purpose of this Neovim configuration is to make an IDE for DevOps engineers. It is forked from [kickstart.nvim](nvim-lua/kickstart.nvim).
 

@@ -533,7 +533,7 @@ local servers = {
     },
   },
   pylsp = {
-    filetypes = { "py" },
+    filetypes = { 'python' },
     settings = {
       pylsp = {
         plugins = {

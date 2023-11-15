@@ -1,13 +1,5 @@
 # Neovim DevOps IDE configuration
 
-STOPPED.
-
-I changed to [LazyVim](https://www.lazyvim.org).
-
-"Effortless Efficiency, Unleash IDE Power with Ease".
-
----
-
 The purpose of this Neovim configuration is to make an IDE for DevOps engineers. It is forked from [kickstart.nvim](nvim-lua/kickstart.nvim).
 
 ### Introduction
